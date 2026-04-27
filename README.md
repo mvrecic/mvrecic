@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hola, soy Matías Vrecic  
 
-<!--
-**mvrecic/mvrecic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Analista en sistemas orientado al análisis de datos.  
 
-Here are some ideas to get you started:
+📊 Transformo datos en información útil para la toma de decisiones.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Trabajo con Excel, SQL, Power BI y Python.  
+
+📈 Desarrollo análisis, reportes y soluciones prácticas basadas en datos.  
+
+🌱 Actualmente sigo formándome y desarrollando proyectos reales.  
+
+💼 Abierto a oportunidades y colaboración.  
+
+📫 LinkedIn: https://www.linkedin.com/in/matias-vrecic 
